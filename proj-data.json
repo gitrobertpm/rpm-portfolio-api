@@ -1,0 +1,49 @@
+{
+ "projects": [
+    {
+        "id": 0,
+        "project_name": "A Random Quote Generator",
+        "description": "An app that generates a random quote from a list of quotes with the click of a button.",
+        "technologies": [],
+        "live_link": "",
+        "github_link": "",
+        "image_urls": []
+    },
+    {
+        "id": 1,
+        "project_name": "List Pagination and Filtering",
+        "description": "Using the principles of Progressive Enhancement and Unobtrusive JS, a dynamically generated set of pagination buttons and a search feature has been added to a long list of students to make it more functional and user friendly.",
+        "technologies": [],
+        "live_link": "",
+        "github_link": "",
+        "image_urls": []
+    },
+    {
+        "id": 2,
+        "project_name": "Interactive Form",
+        "description": "Added conditional behavior and interactivity along with custom validation and error messages to an online registration from.",
+        "technologies": [],
+        "live_link": "",
+        "github_link": "",
+        "image_urls": []
+    },
+    {
+        "id": 3,
+        "project_name": "OOP Game Show App",
+        "description": "Used Object Oriented Programming to craft a fun phrase guessing game similar to hangman and Wheel of Fortune.",
+        "technologies": [],
+        "live_link": "",
+        "github_link": "",
+        "image_urls": []
+    },
+    {
+        "id": 4,
+        "project_name": "Public API Requests",
+        "description": "A gallery of fictional empoloyees created by rquesting data from the the Random User Public API, complete with a handy modal feature.",
+        "technologies": [],
+        "live_link": "",
+        "github_link": "",
+        "image_urls": []
+    }
+ ]
+}
